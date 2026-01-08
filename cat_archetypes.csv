@@ -1,0 +1,6 @@
+archetype,nametag,coat, aggression,energy,hunger,affection, favorite_color, favorite_fish, stinky,skill
+no thoughts orange,not_named,orange,0.1,0.6,0.8,0.8,unknown,unknown,FALSE,unknown
+ mean grey,not_named,grey,0.8,0.5,0.5,0.1,unknown,unknown,FALSE,unknown
+playful calico,not_named,calico,0,0.8,0.6,0.9,unknown,unknown,FALSE,unknown
+ stinky sweet tabby,not_named,tabby,0,0.3,0.5,1,unknown,unknown,TRUE,unknown
+ mysterious black,not_named,black,0.2,0.5,0.5,0.5,unknown,unknown,FALSE,unknown
